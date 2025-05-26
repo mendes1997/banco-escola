@@ -1,3 +1,3 @@
 # banco-escola
 
-<img src=./banco-escola.PNG">
+<img src="./BANCO-ESCOLA.PNG">
